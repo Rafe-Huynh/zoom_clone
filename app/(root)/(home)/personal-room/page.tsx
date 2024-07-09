@@ -16,8 +16,8 @@ const Table = ({title, desc}: {title:string, desc: string}) => (
     </h1>
   </div>
 )
-const page = () => {
-  const {toast} =useToast()
+const Personal = () => {
+  const { toast } = useToast();
   const {user} = useUser()
   const meetingId = user?.id
    const meetingLink = `${process.env.NEXT_PUBLIC_BASE_URL}/meeting/${meetingId}?personal=true`
@@ -62,4 +62,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Personal

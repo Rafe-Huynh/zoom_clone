@@ -1,7 +1,7 @@
 import MeetingTypeLists from '@/components/MeetingTypeLists'
 import React from 'react'
 
-const page = () => {
+const Home = () => {
   const now = new Date()
   const time = now.toLocaleTimeString([],{hour:'2-digit', minute:'2-digit'})
   const date = now.toLocaleDateString([],{weekday:"long",month:'long', day:'numeric', year:'2-digit'})
@@ -25,4 +25,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Home
