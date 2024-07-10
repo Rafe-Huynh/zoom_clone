@@ -1,11 +1,11 @@
- Tech: < br / >
+ Tech: 
 
-- Next.js < br / >
-- TypeScript < br / >
-- Clerk < br / >
-- getstream < br / >
-- shadcn < br / >
-- Tailwind CSS < br / >
+- Next.js 
+- TypeScript 
+- Clerk 
+- getstream 
+- shadcn 
+- Tailwind CSS 
 
 
 
