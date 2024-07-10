@@ -1,3 +1,15 @@
+ Tech: < br / >
+
+- Next.js < br / >
+- TypeScript < br / >
+- Clerk < br / >
+- getstream < br / >
+- shadcn < br / >
+- Tailwind CSS < br / >
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
